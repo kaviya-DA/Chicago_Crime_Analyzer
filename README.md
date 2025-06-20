@@ -14,6 +14,10 @@ The goal is to identify crime patterns, hotspots, arrest trends, and time-based 
 | Chicago_Crime_Analyzer.pbix | Power BI file with dashboards & visuals     |
 | SQL_Queries.txt             | SQL queries used for data analysis          |
 | Crime_Data.xlsx             | Original dataset (optional)                 |
+| Dashboard_Page_1.png            | Screenshot – Page 1 of dashboard            |
+| Dashboard_Page_2.png            | Screenshot – Page 2 of dashboard            |
+| Dashboard_Page_3.png            | Screenshot – Page 3 of dashboard            |
+
 
 ---
 
@@ -40,5 +44,12 @@ The goal is to identify crime patterns, hotspots, arrest trends, and time-based 
 - 📁 GitHub (for version control & publishing)
 
 ---
+
+## 📌 Notes
+
+- The Power BI dashboard is shared as a *PDF file* in this repository.
+- 📎 GitHub does not show a preview of the PDF inside the browser.
+- ✅ To view the full dashboard clearly, please *download the PDF file* and open it on your system.
+- Dashboard screenshots are also provided for quick reference.
 
 
